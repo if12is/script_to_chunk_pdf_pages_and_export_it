@@ -17,7 +17,7 @@ A user-friendly desktop application for extracting pages from PDF files.
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/pdf-page-extractor.git
+   git clone https://github.com/if12is/script_to_chunk_pdf_pages_and_export_it.git
    cd pdf-page-extractor
    ```
 
