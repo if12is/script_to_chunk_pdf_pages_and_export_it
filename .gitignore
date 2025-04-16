@@ -63,5 +63,5 @@ venv.bak/
 
 # Project specific
 *.pdf
-screenshots/
 !screenshots/app_preview.png
+screenshots/*.md
